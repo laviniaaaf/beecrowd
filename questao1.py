@@ -23,7 +23,7 @@ for i in range(len(frase)):
             contador+=1
         if frase[i] == 'u':
             contador+=1
-    if frase[i] in 'bcdfghjklmnpqrstvwxyz': #acrescentei a verificacoes de consoantes
+    if frase[i] in 'bcdfghjklmnpqrstvwxyz': 
         consoantes+=1
 
 
